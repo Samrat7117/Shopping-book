@@ -40,3 +40,13 @@
 0:0:0:0:0:0:0:1 - - [13/Mar/2026:10:49:02 +0000] "GET /bookstore/index.jsp HTTP/1.1" 200 255
 0:0:0:0:0:0:0:1 - - [13/Mar/2026:10:49:06 +0000] "GET /bookstore/ViewCartServlet HTTP/1.1" 200 66
 0:0:0:0:0:0:0:1 - - [13/Mar/2026:10:49:08 +0000] "GET /bookstore/ViewCartServlet HTTP/1.1" 200 66
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:01 +0000] "GET /bookstore/AddToCartServlet?book=Java HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:01 +0000] "GET /bookstore/index.jsp HTTP/1.1" 200 255
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:02 +0000] "GET /bookstore/AddToCartServlet?book=Python HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:02 +0000] "GET /bookstore/index.jsp HTTP/1.1" 200 255
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:03 +0000] "GET /bookstore/ViewCartServlet HTTP/1.1" 200 86
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:29 +0000] "GET /bookstore/AddToCartServlet?book=Java HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:29 +0000] "GET /bookstore/index.jsp HTTP/1.1" 200 255
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:29 +0000] "GET /bookstore/AddToCartServlet?book=Java HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:29 +0000] "GET /bookstore/index.jsp HTTP/1.1" 200 255
+0:0:0:0:0:0:0:1 - - [13/Mar/2026:11:00:30 +0000] "GET /bookstore/ViewCartServlet HTTP/1.1" 200 104
